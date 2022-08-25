@@ -281,6 +281,7 @@ import artizen from "./artizen.scss";
 import dewo from "./dewo.scss";
 import breederdao from "./breederdao.scss";
 import gogoprotocol from "./gogoprotocol.scss";
+import enjinstarter from "./enjinstarter.scss";
 
 export default {
   aave,
@@ -566,4 +567,5 @@ export default {
   dewo,
   gogoprotocol,
   breederdao,
+  enjinstarter,
 };
